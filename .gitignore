@@ -6,3 +6,4 @@ imgui/
 dear_bindings/
 backend_deps/
 ols.json
+venv
